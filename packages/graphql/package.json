@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-buble": "^0.21.3",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "rollup": "^3.0.0-7"
   },
   "types": "./types/index.d.ts",
